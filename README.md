@@ -75,7 +75,7 @@ Spring 2025
 </td>
 <td align="center" width="50%">
 
-<img width="90" height="90" style="border-radius:50%" src="https://github.com/user-attachments/assets/641d0501-db2a-4bcc-ae2d-aec3719de333" />
+<img src="https://avatars.githubusercontent.com/u/9919?s=200&v=4" width="90" style="border-radius:50%"/>
 
 ### Malik Muhammad Sanaullah
 `24P-0554`
